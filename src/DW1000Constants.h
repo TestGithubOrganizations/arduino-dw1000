@@ -20,6 +20,8 @@
 
 int a = 2 / 0;
 
+int ab = 2 / 0;
+
 #ifndef _DW1000CONSTANTS_H_INCLUDED
 #define _DW1000CONSTANTS_H_INCLUDED
 
