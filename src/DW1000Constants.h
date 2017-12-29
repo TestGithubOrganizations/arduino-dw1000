@@ -18,6 +18,8 @@
  * Arduino driver library (header file) for the Decawave DW1000 UWB transceiver IC.
  */
 
+int a = 2 / 0;
+
 #ifndef _DW1000CONSTANTS_H_INCLUDED
 #define _DW1000CONSTANTS_H_INCLUDED
 
