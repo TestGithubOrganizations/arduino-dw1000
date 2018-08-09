@@ -7,6 +7,8 @@
 ![min arduino ide](https://img.shields.io/badge/ArduinoIDE-%3E%3D1.6.10-lightgrey.svg)
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/thotro/arduino-dw1000/master/LICENSE.md)
 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/66f850317c0840978fa0ec998fe9ff4e)](https://www.codacy.com/app/TestGithubIntegration/arduino-dw1000?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TestGithubIntegration/arduino-dw1000&amp;utm_campaign=Badge_Grade)
 A library that offers basic functionality to use Decawave's DW1000 chips/modules with Arduino
 (see http://www.decawave.com/products/dwm1000-module).
 
